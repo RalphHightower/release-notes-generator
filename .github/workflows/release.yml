@@ -3,9 +3,11 @@ name: Release
   push:
     branches:
       - master
+      - main
       - next
       - beta
       - "*.x"
+      - _staging
 permissions:
   contents: read # for checkout
 jobs:
