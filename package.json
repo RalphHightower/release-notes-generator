@@ -38,7 +38,7 @@
     "npm-run-all2": "6.1.2",
     "prettier": "3.2.5",
     "publint": "0.2.7",
-    "semantic-release": "23.0.6",
+    "semantic-release": "23.0.8",
     "sinon": "17.0.1",
     "stream-buffers": "3.0.2",
     "tempy": "3.1.0",
@@ -127,5 +127,5 @@
       "github>semantic-release/.github:renovate-config"
     ]
   },
-  "packageManager": "npm@10.5.0+sha256.17ca6e08e7633b624e8f870db81a78f46afe119de62bcaf0a7407574139198fc"
+  "packageManager": "npm@10.7.0"
 }
